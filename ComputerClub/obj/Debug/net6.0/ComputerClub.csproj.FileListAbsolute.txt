@@ -1,0 +1,15 @@
+D:\ProgrammingProjects\ComputerClub\ComputerClub\bin\Debug\net6.0\ComputerClub.exe
+D:\ProgrammingProjects\ComputerClub\ComputerClub\bin\Debug\net6.0\ComputerClub.deps.json
+D:\ProgrammingProjects\ComputerClub\ComputerClub\bin\Debug\net6.0\ComputerClub.runtimeconfig.json
+D:\ProgrammingProjects\ComputerClub\ComputerClub\bin\Debug\net6.0\ComputerClub.dll
+D:\ProgrammingProjects\ComputerClub\ComputerClub\bin\Debug\net6.0\ComputerClub.pdb
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\ComputerClub.csproj.AssemblyReference.cache
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\ComputerClub.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\ComputerClub.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\ComputerClub.AssemblyInfo.cs
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\ComputerClub.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\ComputerClub.dll
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\refint\ComputerClub.dll
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\ComputerClub.pdb
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\ComputerClub.genruntimeconfig.cache
+D:\ProgrammingProjects\ComputerClub\ComputerClub\obj\Debug\net6.0\ref\ComputerClub.dll
